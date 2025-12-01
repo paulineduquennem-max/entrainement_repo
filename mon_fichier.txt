@@ -1,0 +1,6 @@
+GitHub a sauvé du code... sur la Lune ! 
+En 1969, lors de la mission Apollo 11, le programme qui a permis aux astronautes d'alunir sur la lune a été codé par Margaret Hamilton et son équipe du MIT. 
+  Fun Fact : ce code historique a été perdu pendant des années... jusqu'à ce qu'un ingénieur le retrouve et le publie sur GitHub ! 
+  Aujourd'hui, n'importe qui peut consulter le code original qui a permus à Neil Armstrong et buzz Aldrin de marcher sur la Lune ! 
+Le projet est ici : 
+https://github.com/chrislgarry/Apollo-11
